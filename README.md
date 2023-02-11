@@ -1,5 +1,6 @@
 # BlenderPointCloudExporter
 A Python script for Blender that exports a pointcloud with colour to a .ply file.
+Needs Blender 3.4 or later.
 
 1) Download the .py file. 
 2) In Blender go to the Scripting tab and open the .py script.
